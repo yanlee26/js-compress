@@ -3,7 +3,7 @@ typeof exports === 'object' && typeof module !== 'undefined' ? module.exports = 
 typeof define === 'function' && define.amd ? define(factory) : (global.Qarticles = factory());
 
 })(this, function () {
-    class CompressImage {
+    class JsCompress {
         constructor (type = 'image/jpeg') {
           this.type = type
         }
@@ -71,5 +71,5 @@ typeof define === 'function' && define.amd ? define(factory) : (global.Qarticles
           })
         }
     }
-    return CompressImage     
+    return JsCompress     
 })
