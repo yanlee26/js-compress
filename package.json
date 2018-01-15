@@ -1,6 +1,6 @@
 {
   "name": "js-compress",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "one simple tool to compress image by js",
   "main": "index.js",
   "scripts": {
