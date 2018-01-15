@@ -2,7 +2,8 @@
 
 > get started
 
-`
+```//js
+
 npm install js-compress --save-dev
 
 import { CompressImage } from '@/components/utils/CompressImage.js'
@@ -13,7 +14,8 @@ let quality = file.size > maxSize ? 0.5 : 0.9
 compressImage.fileResizetoFile(file, quality, response => {
     //...
 })
-`
+
+```
 
 ## License
 
