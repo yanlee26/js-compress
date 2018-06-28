@@ -1,4 +1,4 @@
-# one simple tool to compress images by js
+# one simple tool to compress files by js
 
 > get started
 
