@@ -23,3 +23,8 @@ jsCompress.fileResizetoFile(file, quality, response => {
 [MIT](http://opensource.org/licenses/MIT)
 
 Copyright (c) 2018-present, Li, Yan
+
+## reference
+
+- <https://www.html5rocks.com/zh/tutorials/file/dndfiles/>
+- <https://developer.mozilla.org/zh-CN/docs/Web/API/FileReader>
